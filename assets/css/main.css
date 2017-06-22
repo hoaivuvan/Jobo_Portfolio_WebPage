@@ -1,0 +1,105 @@
+.brand .h1-seo{
+    font-size: 2.8em;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.brand .h3-seo{
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.brand .n-logo{
+    min-width: 125px;
+    margin-bottom: 40px;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+}
+
+.wrapper {
+    -webkit-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
+    -moz-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
+    -o-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
+    -ms-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
+    transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1); }
+
+/*.section-about-us {
+    margin-top: 50px;
+}
+
+.section-platform {
+    margin-top: 50px;
+}*/
+.section-about-us {
+    height: 430px;
+}
+
+.title {
+    text-transform: uppercase;
+    line-height: 50px;
+    background: -webkit-linear-gradient(#59e5b3, #1dc5ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.separator {
+    height: 2px;
+    width: 50%;
+    background-color: #1ec2f8;
+    margin: 20px auto; }
+.separator.separator-primary {
+    background-color: #1ec2f8; }
+
+.buttons {
+    margin-bottom: 50px;
+}
+
+.landing-page .section-timeline{
+    margin: 50px 0;
+}
+
+.landing-page .section-timeline .card{
+    width: 100%;
+    height: 500px;
+    padding: 10px 30px;
+    border: 3px solid #DDDDDD;
+    border-radius: 10px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.landing-page .section-timeline .card.card-blue{
+    border-color: #1dc5ff;
+}
+.landing-page .section-timeline .card.card-blue .icon i{
+    color:#00bbff;
+}
+
+.landing-page .section-timeline .card  h4{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #1dc5ff;
+    margin: 30px 0 -15px;
+}
+
+.landing-page .section-timeline .card  p{
+    font-size: 16px;
+    line-height: 22px;
+    color: #000;
+}
+/*.footer li:nth-child(1){
+    list-style-image: url('../img/footer/footer-1-1.png');
+}
+.footer li:nth-child(2){
+    list-style-image: url('../img/footer/footer-2-1.png');
+}
+.footer li:nth-child(3){
+    list-style-image: url('../img/footer/footer-3-1.png');
+}*/
+.footer a{
+    margin-top: 10px;
+}
